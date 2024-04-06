@@ -1,0 +1,25 @@
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+!**/*.iml
+*.iml
+
+
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+.idea
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+
+
+### VS Code ###
+.vscode/
+bin/
+
