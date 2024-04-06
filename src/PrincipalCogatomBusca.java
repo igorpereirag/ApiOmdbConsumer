@@ -9,7 +9,7 @@ import com.google.gson.GsonBuilder;
 
 public class PrincipalCogatomBusca {
     public static void main(String[] args) throws InterruptedException {
-        String chave = "d78cd6dd";
+        String chave = "YOU-ACESS-KEY";
         List<Titulo> titulos = new ArrayList<>();
         Gson gson = new GsonBuilder()
                 .setPrettyPrinting()
