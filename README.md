@@ -21,7 +21,7 @@ Este é um projeto Java que consome a API OMDB para buscar informações sobre f
 
 ## Execução
 
-1. Dê um run na classe "PrincipalComBusca.java"
+1. Execute a classe "PrincipalComBusca.java"
 
 2. Siga as instruções no console para buscar filmes. Digite o nome do filme desejado ou "sair" para encerrar a busca.
 
